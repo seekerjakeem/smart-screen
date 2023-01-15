@@ -1,8 +1,8 @@
 {
-    "rtspconfig": {
-        "ip": "localhost",
-        "port": 8080,
-        "username":"",
-        "password":""
+    "kafka" : {
+        "ip": "192.168.1.1",
+        "port":8080,
+        "username": "admin",
+        "password": "123456a"
     }
 }
