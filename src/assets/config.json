@@ -1,0 +1,8 @@
+{
+    "rtspconfig": {
+        "ip": "localhost",
+        "port": 8080,
+        "username":"",
+        "password":""
+    }
+}
